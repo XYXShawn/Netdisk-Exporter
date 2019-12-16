@@ -22,7 +22,6 @@ let options = {
             [downloadurl],
             {
                 'header': baidu_header,
-                'split': 8
             }
         ]
     }
